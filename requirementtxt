@@ -1,0 +1,6 @@
+streamlit==1.10.0
+pyttsx3==2.90
+transformers==4.11.3
+torch==1.9.0
+pytesseract==0.3.8
+pillow==8.3.2
